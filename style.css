@@ -1,12 +1,12 @@
+header.head-nav {
+  background-color: #E67E22;
+  border: 2px dotted black;
+}
+
 body {
   font-family: Georgia;
   color: white;
   background-color: black;
-}
-
-header.head-nav {
-  background-color: #E67E22;
-  border: 2px dotted black;
 }
 
 h1, h2, h3 {
