@@ -10,6 +10,7 @@ header {
 
 header.head-nav {
   background-color: #E67E22;
+  border: 2px dotted black;
 }
 
 
