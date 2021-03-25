@@ -4,15 +4,14 @@ body {
   background-color: black;
 }
 
-header {
-  background-color: #F1C40F;
-}
-
 header.head-nav {
   background-color: #E67E22;
   border: 2px dotted black;
 }
 
+header {
+  background-color: #F1C40F;
+}
 
 h1, h2, h3 {
   font-family: cursive;
