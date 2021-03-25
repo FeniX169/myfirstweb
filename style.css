@@ -4,6 +4,10 @@ body {
   background-color: black;
 }
 
+header {
+  background-color: #F1C40F;
+}
+
 #hnav {
   background-color: #E67E22;
   border: 2px dotted black;
