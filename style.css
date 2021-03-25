@@ -4,7 +4,7 @@ body {
   background-color: black;
 }
 
-.hnav {
+#hnav {
   background-color: #E67E22;
   border: 2px dotted black;
 }
