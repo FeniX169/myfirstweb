@@ -8,6 +8,10 @@ header {
   background-color: #F1C40F;
 }
 
+header.head-nav {
+  background-color: #E67E22;
+}
+
 
 h1, h2, h3 {
   font-family: cursive;
